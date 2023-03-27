@@ -1,0 +1,8 @@
+2023-03-25T21:14:25.1705153Z ##[section]Starting: Prepare job test
+2023-03-25T21:14:25.1707846Z Evaluating strategy
+2023-03-25T21:14:25.1712696Z Creating job '__default'
+2023-03-25T21:14:25.1715118Z Evaluating timeout
+2023-03-25T21:14:25.1715190Z Evaluating cancel timeout
+2023-03-25T21:14:25.1715228Z Evaluating continue on error
+2023-03-25T21:14:25.1715272Z Evaluating target
+2023-03-25T21:14:25.1717082Z ##[section]Finishing: Prepare job test
