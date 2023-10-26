@@ -1,39 +1,103 @@
+                                                                                 *******************
+                                                                                ******************* 
+                                                                               ******************** 
+                                                                              ********************  
+                                                                             ********************   
+                                                                             *******************    
+                                                                            *******************     
+                                                                           *******************      
+                                                                          *******************       
+                                                                         ********************       
+                                                                        ********************        
+                                                                       ********************         
+                                                                       *******************          
+                                                                      *******************           
+                                                                     *******************            
+                                                                    *******************             
+                                                                   ********************             
+                                                                  ********************              
+                                                                 ********************               
+                                                                 *******************                
+                                                                *******************                 
+                                                               *******************                  
+                                                              *******************#                  
+                                                             ********************                   
+                                                             *******************                    
+                                                           ********************                     
+                                                           *******************                      
+                                                          *******************                       
+                                                         *******************                        
+                                                        ********************                        
+                                                       ********************                         
+                                                       *******************                          
+*******************                                   *******************                           
+ *******************                                 *******************                            
+ ********************                               *******************                             
+  ********************                             *******************                              
+   ********************                           ********************                              
+    ********************                         ********************                               
+     *******************                         *******************                                
+      *******************                       *******************                                 
+       *******************                     *******************                                  
+       ********************                   *******************                                   
+        ********************                 *******************                                    
+         ********************               ********************                                    
+          ********************             ********************                                     
+           *******************             *******************                                      
+            *******************           *******************                                       
+             *******************         *******************                                        
+             ********************       *******************                                         
+              ********************     *******************                                          
+               ********************   ********************                                          
+                ******************** ********************                                           
+                 ******************* *******************                                            
+                  *************************************                                             
+                   ***********************************                                              
+                   **********************************                                               
+                    *********************************                                               
+                     *******************************                                                
+                      *****************************                                                 
+                       ***************************                                                  
+                        *************************                                                   
+                         ***********************                                                    
+                         ***********************                                                    
+                          *********************                                                     
 [{"args":{"name":"swapper"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":0,"ts":0},
 {"args":{"name":"CrRendererMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":1,"ts":0},
+{"args":{"name":"CrRendererMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":1,"ts":0},
+{"args":{"name":"CrRendererMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18224,"tid":1,"ts":0}
+{"args":{"name":"CrRendererMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":1,"ts":0},
 {"args":{"name":"CrBrowserMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1302,"ts":0},
-{"args":{"name":"CameraProxyThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1383,"ts":0},
 {"args":{"name":"CrGpuMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1382,"ts":0},
+{"args":{"name":"CameraProxyThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1383,"ts":0},
 {"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":2,"ts":0},
 {"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1398,"ts":0},
-{"args":{"name":"Chrome_IOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1361,"ts":0},
-{"args":{"name":"VizCompositorThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1404,"ts":0},
-{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":4,"ts":0},
-{"args":{"name":"DrmThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1397,"ts":0},
-{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1400,"ts":0},
-{"args":{"name":"CacheThread_BlockFile"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1461,"ts":0},
-{"args":{"name":"CompositorTileWorker1"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1380,"ts":0},
-{"args":{"name":"Chrome_DevToolsADBThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":6635,"ts":0},
-{"args":{"name":"Compositor"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":8,"ts":0},
 {"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1356,"ts":0},
-{"args":{"name":"D-Bus thread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1349,"ts":0},
-{"args":{"name":"ThreadPoolForegroundWorker"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":6,"ts":0},
-{"args":{"name":"GpuWatchdog"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1396,"ts":0},
 {"args":{"name":"ThreadPoolForegroundWorker"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":3,"ts":0},
 {"args":{"name":"ThreadPoolForegroundWorker"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":5,"ts":0},
+{"args":{"name":"ThreadPoolForegroundWorker"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":5,"ts":0},
+{"args":{"name":"ThreadPoolForegroundWorker"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":6,"ts":0},  
+{"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18224,"tid":2,"ts":0},
+{"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":2,"ts":0},
+{"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":2,"ts":0},
+{"args":{"name":"Chrome_IOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1361,"ts":0},
+{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":4,"ts":0},
+{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1400,"ts":0},
+{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":4,"ts":0},
+{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":4,"ts":0},
+{"args":{"name":"Chrome_DevToolsADBThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":6635,"ts":0},  
+{"args":{"name":"VizCompositorThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1404,"ts":0},
+{"args":{"name":"DrmThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1397,"ts":0},
+{"args":{"name":"CacheThread_BlockFile"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1461,"ts":0},
+{"args":{"name":"Compositor"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":8,"ts":0},
+{"args":{"name":"Compositor"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":8,"ts":0},
+{"args":{"name":"Compositor"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":7,"ts":0},
+{"args":{"name":"CompositorTileWorker1"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1380,"ts":0},
 {"args":{"name":"CompositorTileWorker1"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":10,"ts":0},
+{"args":{"name":"D-Bus thread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1349,"ts":0},
+{"args":{"name":"GpuWatchdog"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1382,"tid":1396,"ts":0},
 {"args":{"name":"MemoryInfra"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1362,"ts":0},
 {"args":{"name":"Assistant background thread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":3316,"ts":0},
 {"args":{"name":"BrowserWatchdog"},"cat":"__metadata","name":"thread_name","ph":"M","pid":1302,"tid":1387,"ts":0},
 {"args":{"name":"DedicatedWorker thread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":15,"ts":0},
-{"args":{"name":"WebCrypto"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":13,"ts":0},
-{"args":{"name":"CrRendererMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":1,"ts":0},
-{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":4,"ts":0},
-{"args":{"name":"Compositor"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":8,"ts":0},
-{"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":2,"ts":0},
-{"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":2,"ts":0},
-{"args":{"name":"CrRendererMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":1,"ts":0},
-{"args":{"name":"Chrome_ChildIOThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":4,"ts":0},
-{"args":{"name":"Compositor"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18214,"tid":7,"ts":0},
-{"args":{"name":"ThreadPoolForegroundWorker"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18119,"tid":5,"ts":0},
-{"args":{"name":"ThreadPoolServiceThread"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18224,"tid":2,"ts":0},
-{"args":{"name":"CrRendererMain"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18224,"tid":1,"ts":0}]
+{"args":{"name":"WebCrypto"},"cat":"__metadata","name":"thread_name","ph":"M","pid":18024,"tid":13,"ts":0}];
