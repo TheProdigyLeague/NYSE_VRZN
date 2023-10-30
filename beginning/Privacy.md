@@ -1,5 +1,6 @@
 # Your Privacy
-Information we may collect about (You):_upon interaction and usage of goods/services/product and the types collected._
+Information we may collect about (You):
+_upon interaction and usage of goods/services/product and the types collected._
 Pro Tip: it just depends on (You)
 For example:
 * In person visits
@@ -13,6 +14,7 @@ For example:
 * Social Media
 * Technical Support
 * Other
+  
 Additionally, we need to keep the lights on. SO, really, any information you provide us. Including how you use your device, where you are and your network.
 
 > More specifically: this includes your name, address, email, phone numbers where you can be reached, images, voice recordings or voiceprints, other biometric identifiers, date of birth, driver's license number, Social Security Number, Tax Identifier, payment information, information you provide in surveys, Verizon-sponsored promotions, and grant or job apps...
@@ -37,6 +39,7 @@ Additionally, we need to keep the lights on. SO, really, any information you pro
 ```bash
 $ --install --upd --upg # with your consent
 ```
+
 And, when you request an app from Our Ads during a call: The software collects information about an app when it places First Opened or is uninstalled.
 Basically, we update Verizon apps when you install. (It also may send you notifications about Verizon and third-party offers and promotions that may interest you and about apps on your device that you have not yet used.) 
 Your Device:
@@ -93,20 +96,23 @@ In essence, Verizon and it's Third-Parties, thereof, will obtain your public pro
 > For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you for credit (unless you have opted out using opt out or by calling 1-888-567-8688. Another example, we may use information we collect to tailor the content you see and marketing you receive, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, provide service-related notices and understand the effectiveness of our advertising...We may deliver Verizon marketing on our sites and apps and on non-Verizon sites and apps, by our representatives, via mail or email or via other Verizon services or devices. We may also place advertisements on our sites, apps or services for third party products and services offered by Verizon. These ads may be placed based on information we have about your Verizon products and services, and geographic and demographic information....This applies to information we collect as part of providing broadband Internet access services to you...
 
 #### Progs
-§ Custom Experience Program
-Your mobile device to helps us better personalize our communications with you. We give you more relevant product and service recommendations, and develop plans, services, and offers that are more appealing to you. You maybe included in the program.
+
+§ Custom Experience Program - Your mobile device to helps us better personalize our communications with you. We give you more relevant product and service recommendations, and develop plans, services, and offers that are more appealing to you. You maybe included in the program.
 
 #### Basically, we monitor everything
+
 But, we use only the first part of the web addresses (URLs) you visit (the part that includes the top level domain and subdomain of the URL); Therefore, we do not use information past the first “/” or “?” in the URL. SO technically, e use this information and usage patterns within this information to determine interests, preferences and other insights we use in the program.
 
 	Q: So...How are you NOT invading our privacy?
  	A: WE USE Our Custom Experience Plus program! It uses a broader set of information for the same purposes including information about sites you visit and apps you use, your Verizon Fios services for example, location information, and Customer Proprietary Network Information, including phone numbers you call or those that call you. So, you must remain opted-in to use our services! More information available @[How We DONT invade Users privacy]("https://www.verizon.com/support/verizon-custom-experience-programs-faqs")
+
 ***
+
 § Add-ons: clicks, opens, ads, emails, sites, and apps. All to personalize your experiences and make our marketing more relevant to you! To help you when you request assistance with website or app navigation. To protect you and us against fraud! To assist with locating you in an emergency. To help improve location accuracy in our services and apps. To provide you with updates to system and Verizon applications. Information from your calls and chats with our service and support representatives! To help train employees and support resources and systems to better serve you...To provide customized technical support. To assist you with device settings. For employment and grant applications and surveys. The purpose for which you provide it (or as described at the time when you submitted the information...) We, and third party companies acting on our behalf, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content or analytics. We and these third-party companies may use cookies, pixels, tags, web beacons and scripts, or use similar technologies on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems.
 
 			    > We also use de-identified and aggregated information...
        
-We may de-identify or aggregate information so that Verizon or others may use it for business and marketing purposes. For example, the data we aggregate might be used to analyze, personalize and improve our services, to provide business and marketing insights to others and to help make advertising more relevant to yo
+Indeed, we may de-identify or aggregate information so that Verizon or others may use it for business and marketing purposes. For example, the data we aggregate might be used to analyze, personalize and improve our services, to provide business and marketing insights to others and to help make advertising more relevant to yo
 
 #### Choices
 
@@ -116,15 +122,15 @@ For example, you can opt out of our advertising and insights programs.
 > A: We share information within Verizon...It is our company policy; Vendors, third-party developer teams, business partners during business meetings etc.) Including with our affiliates, for a variety of purposes, including providing you with the latest information about our products and services and offering you our latest promotions. You can limit the sharing in what we call a Customer Proprietary Network Information: Certain credit information, if you do not want us to use them to market services to you that are different from the ones you have. Customer Proprietary Network Information (or CPNI) is information that relates to the type, quantity, destination, technical configuration, location, amount of use and related billing information of your telecommunications or interconnected Voice over Internet Protocol (VoIP) services. Federal law governs our use and sharing of CPNI.
 
 #### Credit CPNI
-Credit information includes your credit score, information in your consumer reports, and your account history.
+CPNI includes your credit score, information in your consumer reports, and your account history.
 
-			    We share information with service providers and partners...
+			    We share CPNI with service providers and partners...
 
-We use service providers to help us offer, provide, repair, restore and bill for services. We share information with them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow. When you purchase or use services that are offered by Verizon and one of our partners, both parties may collect information about you. When this is the case, you should also review the partner company's privacy policy because it may describe uses of information that are different from ours. We share information about your devices’ 5G connectivity with mobile device operating system providers and app developers so that they can optimize your 5G experience. We also share de-identified information with companies to assist with the delivery of advertising campaigns or aggregate reports.
+We use CPNI to help us offer, provide, repair, restore and bill for services. We share information with them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow. When you purchase or use services that are offered by Verizon and one of our partners, both parties may collect information about you. When this is the case, you should also review the partner company's privacy policy because it may describe uses of information that are different from ours. We share information about your devices’ 5G connectivity with mobile device operating system providers and app developers so that they can optimize your 5G experience. We also share de-identified information with companies to assist with the delivery of advertising campaigns or aggregate reports.
 
-			    We share information about your activity on our websites and apps. 
+			    We share CPNI about your activity on our websites and apps. 
 
-§ We must allow third-party advertising companies to collect information about your activity on our sites and in our apps and use that information to help us provide more relevant Verizon advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including Verizon, are trying to reach. For example, ad servers, ad networks or technology platforms. We may deliver Verizon marketing on our sites and apps and on non-Verizon sites and apps, by our representatives, via mail or email or via other Verizon services or devices. [Cookies]("https://www.verizon.com/about/privacy/cookies") We use cookies, pixels, tags, web beacons, scripts, application programming interfaces (APIs) or use similar technologies on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems. Our customers and website visitors can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
+§ We must allow third-party advertising companies to collect information about your activity on our sites and in our apps and use that information to help us provide more relevant Verizon advertising on our own and other sites and apps. CPNI may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including Verizon, are trying to reach. For example, ad servers, ad networks or technology platforms. We may deliver Verizon marketing on our sites and apps and on non-Verizon sites and apps, by our representatives, via mail or email or via CPNI. [Cookies]("https://www.verizon.com/about/privacy/cookies") We use cookies, pixels, tags, web beacons, scripts, application programming interfaces (APIs) or use similar technologies on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems. Our customers and website visitors can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
 In addition, we require that advertising companies disclose when they are using interest-based advertising techniques to deliver ads on our sites and apps as well as when they deliver Verizon ads on other sites. We also require them to offer you the ability to opt out of this use of your information. Verizon sites and services may also include social networks or other third-party plug-ins and widgets that may provide information to their associated social networks or third parties even if you do not click on or otherwise interact with the plug-ins and widgets.
 
        			We disclose certain Fios TV information for audience measurement and market research purposes
@@ -135,9 +141,9 @@ Fios TV Mobile, an app available on mobile devices, and Fios TV Home, an app ava
 
 			 We disclose directory listings and Caller ID information.
 
-We may publish your name, address and wireline telephone number(s) or provide this information to directory publishers, assistance services, or others. These companies can use this information in other formats or for other purposes, and they may make it available to others. We do not publish directories with wireless telephone numbers or make them available to others for listing in directories, unless you request that we do so. We also provide your name and wireline or wireless telephone number for Caller ID and similar services.
+We may publish your name, CPNI and provide to directory publishers, assistance services, or others. These companies can use this information in other formats or for other purposes, and they may make it available to others. We do not publish directories with wireless telephone numbers or make them available to others for listing in directories, unless you request that we do so. We also provide your name and wireline or wireless telephone number for Caller ID and similar services.
 
-			We may disclose information in other situations.
+			We may disclose CPNI in other situations.
 
 In certain circumstances, we disclose information that individually identifies you, your device, and other information we collect, such as: To comply with the law. To protect you, others or us. To credit companies and collection agencies.
 
@@ -145,10 +151,11 @@ In certain circumstances, we disclose information that individually identifies y
 	<li>If Verizon enters into a merger, acquisition or sale of all or a portion of our assets or business</li>
 	<li>With your consent</li>
  
-#### Database
+#### More about CPNI
  
 § We protect our legal rights (Lawyers), freedoms (To use your data), property (Employees) and in cases of involving danger, death or any other serious injury to any person or any other emergencies: It is Verizon's duty to protect against any/all fraudulent, malicious, abusive, or any unauthorized or unlawful use of our products and services. Verizon ensures to go to great lengths to protect it's network, services, devices and users from such use. 
 Verizon may comply with valid legal processes. (Subpoenas, court orders, search warrants.) To the greatest extent of the law. IN order to prevent such proceedings in advance and to defend against complaints, legal claims, admin proceeds, or elsewhere. To credit companies and collection agencies:
+
 1.) Communicates with bureaus
 2.) Collections agencies
 3.) Reporting agencies, respectively
@@ -198,7 +205,7 @@ _For telemarketing, try calling 1-800-VERIZON. It can take up to 30 days to remo
 
 			    You have choices about whether certain information may be used within Verizon for specific marketing purposes.
 
-	Credit information
+	More information...
 
 Wireline customers can limit the sharing of credit information within Verizon for the marketing of new products and services. Check the instructions on your monthly bill, or call 1-844-366-2879 to opt out. CPNI sharing wihtin Verizon and certain business customers 1-866-483-9700 for marketing services that are different than the ones you have. 1-800-333-9956 Limitations we send to customers.
 	
@@ -210,7 +217,7 @@ You will be part of the Custom Experience program unless you opt out. You can op
 
 customer experience + Relevant online ads = You must opt in to the Custom Experience Plus program to be a part of it and you can change your choice at any time on the My Verizon site or in your My Verizon app by accessing 
 	
-	You have choices about advertising, insights, verification and audience measurement services.
+	You have choices about CPNI
 
 To opt out:
 
@@ -275,7 +282,7 @@ or
 	A: InfoSec policies set in place and business-retention practices. (Technical, Admin, Physical - safeguards) These help protect against hackers. 
 
 #### Employee Practice
-§ Verizon trains it's property on how to access user accounts. We may prohibit employees from sharing this information. If authorized our policy requires we retain records as long as it's legal. (Taxes, auditory, investigative, security) Then securely destory it. WE delete corporate information into different types of records, not always distinctly and for data elements. For example, (PHI, PII) Verizon does not always gurantee these safeguards put in place as promise as a prevention plan. [InfoSec]("https://www.verizon.com/about/responsibility/account-security"). For example, we have seen unauthorized attempts to access our customers' third party accounts, including accounts that customers have with financial institutions, email service providers or social media. 
+§ Verizon uses CPNI to access user accounts. We may prohibit employees from sharing this information. If authorized our policy requires we retain records as long as it's legal. (Taxes, auditory, investigative, security) Then securely destory it. WE delete corporate information into different types of records, not always distinctly and for data elements. For example, (PHI, PII) Verizon does not always gurantee these safeguards put in place as promise as a prevention plan. [InfoSec]("https://www.verizon.com/about/responsibility/account-security"). For example, we have seen unauthorized attempts to access our customers' third party accounts, including accounts that customers have with financial institutions, email service providers or social media. 
 
 Please visit [HACKERS]("https://www.verizon.com/solutions-and-services/report-security-vulnerability")
 
@@ -305,7 +312,7 @@ Customers who have fiber-to-the-home (FIOS) Set up an appointment to review PII 
 
 #### Key Takeaways:
 
-* retention of PII necessary for business, accounting, tax, etc.)
+* retention of PII necessary for CPNI, business, accounting, tax, etc.)
 * access of pii (with respect to customer privacy inquiry following proper form filing)
 * appointments arranged with time, location, during business hours
 
@@ -338,17 +345,19 @@ Verizon collects all of your information online which is your physical identity 
 
 117b2ece806d19fd0ab184b5e143cc7c 
 
+```ascii
  _____      _ _   ____  _          _                          _ _ _ 
 |  ___|   _| | | |  _ \(_)___  ___| | ___  ___ _   _ _ __ ___| | | |
 | |_ | | | | | | | | | | / __|/ __| |/ _ \/ __| | | | '__/ _ \ | | |
 |  _|| |_| | | | | |_| | \__ \ (__| | (_) \__ \ |_| | | |  __/_|_|_|
 |_|   \__,_|_|_| |____/|_|___/\___|_|\___/|___/\__,_|_|  \___(_|_|_)y.
+```
 
 ***
 
 [Your_Data]("https://www.verizon.com/privacy/your-data")
 
-	We share all of your information with ISP's. (including in the last twelve months). You can request access to specific pieces and categories of personal information we collect by using our Privacy Dashboard and following the instructions there, or by calling 1-800-333-3972
+	We openly share all of your CPNI information with ISP's. (including in the last twelve months). You can request access to specific pieces and categories of personal information we collect by using our Privacy Dashboard and following the instructions there, or by calling 1-800-333-3972
 
 § This includes personal information about you, for example, we share contact information with service providers who help us send Verizon marketing campaigns and device information to other service providers who help us monitor our network and provide technical support...Service providers are required to protect the information we share with them or they collect on our behalf and use it only for the specific purposes that we allow for business and commercial purposes.
 
@@ -359,7 +368,9 @@ Verizon collects all of your information online which is your physical identity 
 [InfoSec]("https://www.verizon.com/privacy/your-privacy-choices")
 
 #### Rights and Limitations of Privacy
+
 **RedHat: ALERT**
+
 * Limit disclosure of perosnal and sensitive information for purposes without your consent
 
 ![redhat](https://github.com/TheProdigyLeague/NYSE_VRZN/assets/30985576/90db1620-2e84-4009-9808-c12779b8ff2f)
@@ -377,7 +388,9 @@ Verizon collects all of your information online which is your physical identity 
 ![white_hat](https://github.com/TheProdigyLeague/NYSE_VRZN/assets/30985576/b45a331b-b45d-41c4-aecc-f8d703068b3e)
 
 * Ensuring the physical safety of a person; short-term, transient uses; performing services such as maintaining or servicing accounts, providing customer service, fulfilling orders and transactions; verifying your information; and verifying, maintaining or enhancing a service on a device that is owned manufactured or controlled by us or on your device.
+
 **你有不被歧视的权利！**
+
 _Verizon does not deny goods or services based on income, incentives, nor does Verizon charge different prices, raise rates, change levels or quality of goods and services_
 
 	Exercise your rights
