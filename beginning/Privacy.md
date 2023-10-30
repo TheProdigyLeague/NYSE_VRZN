@@ -219,42 +219,13 @@ customer experience + Relevant online ads = You must opt in to the Custom Experi
 	
 	You have choices about CPNI
 
-To opt out:
-
-1.) Services (My Verizon)
-2.) Internet
-3.) Manage - Online Advertising
-4.) End-User ID + PWD
-
-or 
-
-1.) TV
-2.) Manage - Preferences
-3.) ID + PWD
+To opt out: Login to My Services, click the link, go to manage, online advertising, enter ID and pwd.
 
 ***
 
-Insights (Account Owners)
-
-1.) Update preferences
-<a href="//myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences" target="_blank" rel="noopener noreferrer" data-airgap-id="36">privacy choices page in My Verizon</a> or in the My Verizon app; or by calling 1-866-211-0874...
-
-ID Verify (Third-Parties)
-
-1.) My Verizon
-2.) Privacy Settings
-
-TV Market 
-1.) TV
-2.) Settings
-<a href="https://tv.verizon.com/watch/settings/nielsen/" target="_blank" rel="noopener noreferrer" data-airgap-id="37">
-
-or
-
-Apple/Android
-
-1.) Ads Personalization
-2.) "Internet based-ads" setting
+Insights (Account Owners) - Update preferences
+[SETTINGS]("https://www.myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences") | 1-866-211-0874 | TV, Markets
+[NIELSEN]("https://www.tv.verizon.com/watch/settings/nielsen") | ads personalization | internet based | settings
 
 	You have other choices available to you.
 
