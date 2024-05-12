@@ -3,7 +3,7 @@
 <pre id="output" class="d-inline-block text-left mb-0" style="overflow-y: hidden;">  ____     _ _       _              ____                  _               <br> / ___|___| | |_   _| | __ _ _ __  / ___|  ___ _ ____   _(_) ___ ___  ___ <br>| |   / _ \ | | | | | |/ _` | '__| \___ \ / _ \ '__\ \ / / |/ __/ _ \/ __|<br>| |__|  __/ | | |_| | | (_| | |     ___) |  __/ |   \ V /| | (_|  __/\__ \<br> \____\___|_|_|\__,_|_|\__,_|_|    |____/ \___|_|    \_/ |_|\___\___||___/</pre>
 
 * (c) 2019 kazuya kawaguchi
-* (c) 2023 Zaxkeroth
+* (c) 2024 Zaxkeroth
 * (c) 2005, 2007 Bob Ippolito. All Rights Reserved.
 * (c) The Closure Library Authors.
 ## SPDX-License-Identifier: MIT
